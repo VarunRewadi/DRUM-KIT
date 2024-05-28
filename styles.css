@@ -79,3 +79,8 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+.activate{
+  text-align: center;
+  font-size: 2rem;
+}
